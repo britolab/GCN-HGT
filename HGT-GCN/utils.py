@@ -12,7 +12,6 @@ def weight_variable_glorot(input_dim, output_dim, name=""):
         maxval=init_range, dtype=tf.float32)
     return tf.Variable(initial, name=name)
 
-
 def dropout_sparse(x, keep_prob, num_nonzero_elems):
     """Dropout for sparse tensors. Currently fails 
     for very large sparse tensors (>1M elements)"""

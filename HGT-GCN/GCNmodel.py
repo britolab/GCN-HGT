@@ -29,7 +29,7 @@ flags.DEFINE_string("p", None, "add configuration")
 flags.DEFINE_string("o", None, "add configuration")
 flags.DEFINE_string("n", None, "add configuration")
 
-#learning rate true 
+#learning rate 
 flags.DEFINE_float('learning_rate', 0.00005, 'Initial learning rate.')
 flags.DEFINE_integer('epochs', 100, 'Number of epochs to train.')
 flags.DEFINE_integer('hidden1', 32, 'Number of units in hidden layer 1.')
@@ -170,12 +170,12 @@ class Optimizer():
         
   # pos_weight is the ratio of 0's to 1's in the matrix. It is 0.5 if the graph is 
   # half-connected, undefined when the graph is empty, 0.0 when the graph is full
-  # The more connected the lower the pos_weight.
+  # The more connected, the lower the pos_weight.
   # Bound between 0 and 1.
         
-  # norm is 1/P(0) in the graph. It is 1.0 when the graph is empty and undefined
+  # norm is 1/P(0) in the graph. It is 1.0 when the graph is empty, and undefined
   # when the graph is full.
-  # The more connected the higher the norm.
+  # The more connected, the higher the norm.
   # Bound between 1 and infinite.
         
         # Odds of finding 0: finding 1
@@ -189,7 +189,7 @@ class Optimizer():
         # The higher the norm, the higher the cost.
         # The more connected, the higher the norm.
         # In this optimizer, pos_weight < 1 decreases FP count
-        # The cost function is stricter the more connections there are
+        # The cost function is stricter with more connections
         # embedding_weights = model.embeddings.vars['weights']
 
         self.cost = norm * tf.reduce_mean(                # average

@@ -425,7 +425,6 @@ for i in range(0, 1):
     # Create optimizer
     with tf.name_scope('optimizer'):
         opt = Optimizer(
- #           model = model,
             preds=model.reconstructions,
             labels=tf.reshape(tf.sparse_tensor_to_dense(placeholders['adj_orig'], 
             validate_indices=False), [-1]),
@@ -567,8 +566,6 @@ np.save('GCN_evaluation/tpr_dummy',tpr_dummy)
 np.save('GCN_evaluation/pre_dummy',precision_dummy)
 np.save('GCN_evaluation/rec_dummy',recall_dummy)
 features_dummy.to_pickle('GCN_evaluation/features_dummy.pkl')
-
-os.mkdir('GCN_prediction')
 np.save('GCN_prediction/labels_readadj_censor',labels_readadj_censor)
 np.save('GCN_prediction/preds_readadj_censor',preds_readadj_censor)
 np.save('GCN_prediction/layer1_weights_readadj_censor',layer1_weights_readadj_censor)

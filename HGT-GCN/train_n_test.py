@@ -207,7 +207,7 @@ censor_test_nodes= list(train_nodes + test_nodes)
 censor_test_G_nodelist, censor_test_adj, censor_test_edges_list=nodes_to_adj(censor_test_nodes)
 censor_val_G_nodelist, censor_val_adj, censor_val_edges_list =nodes_to_adj(censor_val_nodes)
 
-# creat censor edges
+# create censor edges
 censor_test_edges_true=creat_censor_edges(censor_test_G_nodelist, censor_test_edges_list, test_nodes)
 seen_test=np.asarray(pd.DataFrame(censor_test_edges_true).sample(int(len(censor_test_edges_true)*arg.p_observed))).tolist()
 unseen_test=[x for x in censor_test_edges_true if x not in seen_test]
@@ -216,7 +216,7 @@ censor_val_edges_true=creat_censor_edges(censor_val_G_nodelist, censor_val_edges
 seen_val=np.asarray(pd.DataFrame(censor_val_edges_true).sample(int(len(censor_val_edges_true)*arg.p_observed))).tolist()
 unseen_val=[x for x in censor_val_edges_true if x not in seen_val]
 
-# creat censored adjacency matrix
+# create censored adjacency matrix
 censor_test_adj_seen=sp.csr_matrix(censor_test_adj.toarray())
 for i in range(len(unseen_test)):
     censor_test_adj_seen[unseen_test[i][0],unseen_test[i][1]] = 0

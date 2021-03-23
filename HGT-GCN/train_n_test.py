@@ -80,13 +80,13 @@ test_nodes = nodelist[0:500]
 close_16S_test = list(set(close_16S[close_16S[0].isin(test_nodes)][1].to_list() + close_16S[close_16S[1].isin(test_nodes)][0].to_list()))
 
 # defind train and val nodes by excluding same species and close relatives with any test nodes
-train_val_nodes=[]
-test_taxa_list=np.asarray(taxa_species.loc[test_nodes])
+train_val_nodes = []
+test_taxa_list = np.asarray(taxa_species.loc[test_nodes])
 for i in range(len(nodelist)-len(test_nodes)):
     if np.asarray(taxa_species.loc[nodelist[len(test_nodes)+i]]) not in test_taxa_list and nodelist[len(test_nodes)+i] not in close_16S_test :  
         train_val_nodes.append(nodelist[len(test_nodes)+i])
-val_nodes=random.sample(train_val_nodes,500) # randomly select 500 nodes for validation set
-train_nodes=[x for x in train_val_nodes if x not in val_nodes]
+val_nodes = random.sample(train_val_nodes,500) # randomly select 500 nodes for validation set
+train_nodes = [x for x in train_val_nodes if x not in val_nodes]
 
 # mkdir data and save raw nodes
 os.mkdir('raw_data')
@@ -396,7 +396,7 @@ with open('GCN_processed_data/unseen_val', 'wb') as f:
 with open('GCN_processed_data/censor_val_edges_false', 'wb') as f:
     pickle.dump(censor_val_edges_false, f)
     
-#save into npys
+#save processed data into npys
 sp.save_npz('GCN_processed_data/feature_train',feature_train_table_spx)
 sp.save_npz('GCN_processed_data/adj_norm_val',adj_norm_val)
 sp.save_npz('GCN_processed_data/adj_norm_test',adj_norm_test)
@@ -499,13 +499,13 @@ def get_roc_score_test(features_input,adj_norm_input,adj_orig_input,edges_pos, e
 
     return roc_score, ap_score, labels_all, preds_all
 
-# make features for dummy censor adj
+# make dummy feature tables
 features_dummy = pd.DataFrame(np.random.randint(2, size=(features_orig.shape[0], features_orig.shape[1])))
 features_dummy.index=features_orig.index
 features_dummy.columns=features_orig.columns
-feature_test_censor_dummy=sp.csr_matrix(nodes_to_dummy_features(censor_test_G_nodelist))
+feature_test_censor_dummy = sp.csr_matrix(nodes_to_dummy_features(censor_test_G_nodelist))
 
-#return the dummy score
+# return the dummy score
 roc_score_dummy, ap_score_dummy, labels_all_dummy, preds_all_dummy=get_roc_score_test(feature_test_censor_dummy, adj_norm_test, censor_test_adj, unseen_test[0:20000], censor_test_edges_false[0:20000])
 
 fpr_true, tpr_true, thr_true = roc_curve(labels_readadj_censor, preds_readadj_censor)

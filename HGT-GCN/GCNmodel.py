@@ -29,7 +29,7 @@ flags.DEFINE_string("p", None, "add configuration")
 flags.DEFINE_string("o", None, "add configuration")
 flags.DEFINE_string("n", None, "add configuration")
 
-#learning rate 
+#learning rate; epochs; size of hidden layers.
 flags.DEFINE_float('learning_rate', 0.00005, 'Initial learning rate.')
 flags.DEFINE_integer('epochs', 100, 'Number of epochs to train.')
 flags.DEFINE_integer('hidden1', 32, 'Number of units in hidden layer 1.')

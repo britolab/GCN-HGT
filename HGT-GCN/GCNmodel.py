@@ -168,29 +168,11 @@ class Optimizer():
         
   # This optimizer uses two hyperparameters in its training: pos_weight and norm
         
-  # pos_weight is the ratio of 0's to 1's in the matrix. It is 0.5 if the graph is 
-  # half-connected, undefined when the graph is empty, 0.0 when the graph is full
-  # The more connected, the lower the pos_weight.
-  # Bound between 0 and 1.
-        
-  # norm is 1/P(0) in the graph. It is 1.0 when the graph is empty, and undefined
-  # when the graph is full.
-  # The more connected, the higher the norm.
-  # Bound between 1 and infinite.
-        
-        # Odds of finding 0: finding 1
         pos_weight = float(num_nodes**2 - num_edges) / num_edges
         
         norm = num_nodes**2 / float((num_nodes**2 - num_edges) * 2 )  
         preds_sub = preds
         labels_sub = labels
-
-        # We multiply the cost by the norm. 
-        # The higher the norm, the higher the cost.
-        # The more connected, the higher the norm.
-        # In this optimizer, pos_weight < 1 decreases FP count
-        # The cost function is stricter with more connections
-        # embedding_weights = model.embeddings.vars['weights']
 
         self.cost = norm * tf.reduce_mean(                # average
                         tf.nn.weighted_cross_entropy_with_logits(  # cross-entropy 

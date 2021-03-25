@@ -9,7 +9,7 @@ This pipeline performs data splitting (train/validation/test) of computed HGT da
 
 # Requirement
 1. TensorFlow (1.13.1)
-2. python 3.5.5
+2. python (3.5.5)
 3. networkx
 4. scikit-learn
 5. scipy

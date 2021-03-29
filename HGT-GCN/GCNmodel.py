@@ -64,7 +64,6 @@ def construct_feed_dict(adj_normalized, adj, features, placeholders):
 
 class GraphConvolution():
     """Basic graph convolution layer for undirected graph without edge labels."""
-    #?? test def __init__(self, input_dim, output_dim, adj, name, dropout=0., act=tf.nn.relu):
     def __init__(self, input_dim, output_dim, adj, name, dropout=0., act=lambda x: x):
         self.name = name
         self.vars = {}

@@ -1,7 +1,7 @@
 # GCN-HGT
 Prediction of horizontal gene transfer (HGT) using graph convolutional neural network
 
-This pipeline performs data splitting (train/validation/test) of computed HGT data, and trains a graph convolutional network model to predict HGT events.
+This pipeline performs data splitting on computed HGT data and trains a graph neural network model.
 
 # Acknowledgement
 1. T. N. Kipf, M. Welling, Variational Graph Auto-Encoders, NIPS Workshop on Bayesian Deep Learning (2016)

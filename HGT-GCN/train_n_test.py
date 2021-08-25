@@ -16,7 +16,6 @@ import collections
 import pandas as pd
 import numpy as np
 import random
-import tensorflow as tf
 import time
 import scipy.sparse as sp
 import argparse

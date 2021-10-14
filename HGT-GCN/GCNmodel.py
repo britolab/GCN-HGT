@@ -1,6 +1,4 @@
 # -*- coding: UTF-8 -*- 
-# Reference 1: T. N. Kipf, M. Welling, Variational Graph Auto-Encoders, NIPS Workshop on Bayesian Deep Learning (2016); 
-# Reference 2: http://snap.stanford.edu/deepnetbio-ismb/
 
 import os 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' 

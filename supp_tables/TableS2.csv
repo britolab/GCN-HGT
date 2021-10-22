@@ -1,0 +1,169 @@
+GCN_KO,name,definition,pathways,Share(+),Only_one(+),Neither(+),Share(-),Only_one(-),Neither(-),Num_of_genomes
+K02837,prfC,peptide chain release factor 3,,83.31,13.39,3.3,60.56,34.29,5.15,9585
+K00674,dapD,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]","{'ko01230': 'Biosynthesis of amino acids', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00300': 'Lysine biosynthesis'}",16.77,21.23,62,44.79,44.79,10.42,8451
+K03574,"mutT, NUDT15, MTH2",8-oxo-dGTP diphosphatase [EC:3.6.1.55],,74.1,16.12,9.78,70.23,27.02,2.75,10373
+K01533,copB,Cu2+-exporting ATPase [EC:3.6.3.4],,44.45,34.95,20.6,30.33,48.94,20.73,6832
+K02781,"PTS-Gut-EIIA, srlB","PTS system, glucitol/sorbitol-specific IIA component [EC:2.7.1.198]","{'ko00051': 'Fructose and mannose metabolism', 'ko02060': 'Phosphotransferase system (PTS)'}",2.3,8.41,89.29,0.48,12.1,87.42,739
+K03711,"fur, zur, furB","Fur family transcriptional regulator, ferric uptake regulator",,61,28.53,10.47,72.61,25.34,2.05,10764
+K20534,"gtrB, csbB",polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-],,11.48,43.58,44.94,11.84,45.54,42.62,4140
+K06940,K06940,uncharacterized protein,,29.5,34.07,36.43,9.58,44.07,46.35,3992
+K07636,phoR,"two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]",{'ko02020': 'Two-component system'},52.67,34.38,12.95,44.17,44.84,10.99,8191
+K01666,mhpE,4-hydroxy 2-oxovalerate aldolase [EC:4.1.3.39],"{'ko01100': 'Metabolic pathways', 'ko00621': 'Dioxin degradation', 'ko01220': 'Degradation of aromatic compounds', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00362': 'Benzoate degradation', 'ko00360': 'Phenylalanine metabolism', 'ko00622': 'Xylene degradation'}",5.23,26.72,68.05,2.78,27,70.22,2089
+K03658,helD,DNA helicase IV [EC:3.6.4.12],,0.88,11.22,87.9,0.29,10.74,88.97,644
+K01209,abfA,alpha-N-arabinofuranosidase [EC:3.2.1.55],{'ko00520': 'Amino sugar and nucleotide sugar metabolism'},14.61,40.12,45.27,6.05,36.77,57.18,3074
+K07862,sstT,serine/threonine transporter,,8.69,31.58,59.73,2.38,25.39,72.23,1736
+K02005,ABC.CD.TX,HlyD family secretion protein,,29.67,43.11,27.22,20.43,49.51,30.06,5534
+K03823,pat,phosphinothricin acetyltransferase [EC:2.3.1.183],"{'ko01130': 'Biosynthesis of antibiotics', 'ko00440': 'Phosphonate and phosphinate metabolism'}",49.13,39.77,11.1,37.11,47.79,15.1,7596
+K00757,"udp, UPP",uridine phosphorylase [EC:2.4.2.3],"{'ko00983': 'Drug metabolism - other enzymes', 'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}",35.42,32.86,31.72,5.51,35.57,58.92,3104
+K02357,"tsf, TSFM",elongation factor Ts,,99.99,0.01,0,99.62,0.38,0,12481
+K01956,"carA, CPA1",carbamoyl-phosphate synthase small subunit [EC:6.3.5.5],"{'ko00240': 'Pyrimidine metabolism', 'ko00250': 'Alanine, aspartate and glutamate metabolism', 'ko01100': 'Metabolic pathways'}",94.23,5.37,0.4,89.55,10.19,0.26,11787
+K05995,pepE,dipeptidase E [EC:3.4.13.21],,23.13,39.17,37.7,5.04,35.09,59.87,2874
+K13747,nspC,carboxynorspermidine decarboxylase [EC:4.1.1.96],"{'ko01100': 'Metabolic pathways', 'ko00330': 'Arginine and proline metabolism'}",32.77,37.08,30.15,4.22,34.21,61.57,2869
+K03719,lrp,"Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein",,24.35,45.41,30.24,30.28,49.87,19.85,6840
+K01206,FUCA,alpha-L-fucosidase [EC:3.2.1.51],{'ko00511': 'Other glycan degradation'},19.34,38.34,42.32,4.44,33.63,61.93,2741
+K00068,srlD,sorbitol-6-phosphate 2-dehydrogenase [EC:1.1.1.140],{'ko00051': 'Fructose and mannose metabolism'},0.35,6.78,92.87,0.26,8.15,91.59,466
+K03088,rpoE,"RNA polymerase sigma-70 factor, ECF subfamily",,85.94,10.42,3.64,74.68,23.27,2.05,10870
+K01185,E3.2.1.17,lysozyme [EC:3.2.1.17],,6.04,12.75,81.21,1.93,24.05,74.02,1820
+K10708,frlB,fructoselysine 6-phosphate deglycase [EC:3.5.-.-],,1.32,15.84,82.84,0.1,4.79,95.11,262
+K06131,clsA_B,cardiolipin synthase A/B [EC:2.7.8.-],"{'ko00564': 'Glycerophospholipid metabolism', 'ko01100': 'Metabolic pathways'}",73.58,20.35,6.07,39.77,46.97,13.26,7837
+K07015,K07015,uncharacterized protein,,52.05,19.68,28.27,6.18,37.34,56.48,2856
+K18640,parM,plasmid segregation protein ParM,,20.35,34.77,44.88,0.77,17.36,81.87,1156
+K03571,mreD,rod shape-determining protein MreD,,37.03,35.97,27,22.63,49.44,27.93,5419
+K17836,penP,beta-lactamase class A [EC:3.5.2.6],"{'ko00311': 'Penicillin and cephalosporin biosynthesis', 'ko01130': 'Biosynthesis of antibiotics', 'ko01501': 'beta-Lactam resistance'}",16.08,30.72,53.2,12.57,46.15,41.28,4718
+K09005,K09005,uncharacterized protein,,5.54,7.39,87.07,9.92,43.12,46.96,3961
+K00336,nuoG,NADH-quinone oxidoreductase subunit G [EC:1.6.5.3],"{'ko01100': 'Metabolic pathways', 'ko00190': 'Oxidative phosphorylation'}",35.68,38.06,26.26,31.39,49.6,19.01,7050
+K00788,thiE,thiamine-phosphate pyrophosphorylase [EC:2.5.1.3],"{'ko01100': 'Metabolic pathways', 'ko00730': 'Thiamine metabolism'}",67.07,27.69,5.24,57.79,36.44,5.77,9549
+K17675,"SUPV3L1, SUV3",ATP-dependent RNA helicase SUPV3L1/SUV3 [EC:3.6.4.13],,5.18,13.9,80.92,2.88,28.52,68.6,2294
+K01586,lysA,diaminopimelate decarboxylase [EC:4.1.1.20],"{'ko00300': 'Lysine biosynthesis', 'ko01130': 'Biosynthesis of antibiotics', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01100': 'Metabolic pathways', 'ko01230': 'Biosynthesis of amino acids', 'ko01110': 'Biosynthesis of secondary metabolites'}",87.38,11.78,0.84,84.39,14.91,0.7,11508
+K10188,"lacE, araN",lactose/L-arabinose transport system substrate-binding protein,{'ko02010': 'ABC transporters'},8.48,28.65,62.87,0.6,13.09,86.31,877
+K00963,"UGP2, galU, galF",UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9],"{'ko00052': 'Galactose metabolism', 'ko00520': 'Amino sugar and nucleotide sugar metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko00500': 'Starch and sucrose metabolism', 'ko00040': 'Pentose and glucuronate interconversions', 'ko01100': 'Metabolic pathways'}",28.31,23.51,48.18,55.28,38.6,6.12,9271
+K02557,motB,chemotaxis protein MotB,"{'ko02030': 'Bacterial chemotaxis', 'ko02040': 'Flagellar assembly'}",16.4,35.64,47.96,31.54,49.61,18.85,7062
+K16511,mecA1_2,adapter protein MecA 1/2,,36.29,26.99,36.72,2.99,28.97,68.04,1902
+K01284,dcp,peptidyl-dipeptidase Dcp [EC:3.4.15.5],,15.11,8.17,76.72,11.91,45.61,42.48,4617
+K02203,thrH,phosphoserine / homoserine phosphotransferase [EC:3.1.3.3 2.7.1.39],"{'ko01100': 'Metabolic pathways', 'ko01130': 'Biosynthesis of antibiotics', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00680': 'Methane metabolism', 'ko01230': 'Biosynthesis of amino acids', 'ko00260': 'Glycine, serine and threonine metabolism', 'ko01110': 'Biosynthesis of secondary metabolites'}",23.44,28.38,48.18,0.51,14.08,85.41,912
+K07154,hipA,serine/threonine-protein kinase HipA [EC:2.7.11.1],,21.29,42.37,36.34,10.98,44.75,44.27,4096
+K02015,ABC.FEV.P,iron complex transport system permease protein,{'ko02010': 'ABC transporters'},70.81,23.81,5.38,69.24,27.79,2.97,10336
+K00943,"tmk, DTYMK",dTMP kinase [EC:2.7.4.9],"{'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}",35.62,28.39,35.99,69.53,27.89,2.58,10220
+K03564,"BCP, PRXQ, DOT5",peroxiredoxin Q/BCP [EC:1.11.1.15],,51.66,32.49,15.85,65.35,30.87,3.78,10236
+K09922,K09922,uncharacterized protein,,13.35,7.43,79.22,3.15,28.19,68.66,2298
+K07498,K07498,putative transposase,,4.96,8.97,86.07,0.69,16.08,83.23,943
+K10778,ada,"AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]",,6.84,15.28,77.88,10.98,43.53,45.49,4016
+K07052,K07052,uncharacterized protein,,31.8,46.34,21.86,33.32,49.14,17.54,7121
+K12251,aguB,N-carbamoylputrescine amidase [EC:3.5.1.53],"{'ko01100': 'Metabolic pathways', 'ko00330': 'Arginine and proline metabolism'}",16.56,29.97,53.47,7.17,39.05,53.78,3447
+K02340,holA,DNA polymerase III subunit delta [EC:2.7.7.7],"{'ko00240': 'Pyrimidine metabolism', 'ko03440': 'Homologous recombination', 'ko01100': 'Metabolic pathways', 'ko00230': 'Purine metabolism', 'ko03030': 'DNA replication', 'ko03430': 'Mismatch repair'}",78.37,20.4,1.23,81,18.16,0.84,11329
+K00057,gpsA,glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94],"{'ko00564': 'Glycerophospholipid metabolism', 'ko01110': 'Biosynthesis of secondary metabolites'}",93.57,6.35,0.08,93.32,6.51,0.17,12156
+K01935,bioD,dethiobiotin synthetase [EC:6.3.3.3],"{'ko00780': 'Biotin metabolism', 'ko01100': 'Metabolic pathways'}",20.97,33.13,45.9,25.99,49.87,24.14,6413
+K15524,mngB,mannosylglycerate hydrolase [EC:3.2.1.170],,0.26,4.92,94.82,0.05,5.01,94.94,314
+K06403,spoVAA,stage V sporulation protein AA,,23.74,27.66,48.6,0.54,13.9,85.56,872
+K06295,gerKA,spore germination protein KA,,0.93,5.86,93.21,0.51,13.48,86.01,892
+K09117,K09117,uncharacterized protein,,57.99,32.4,9.61,55.78,37.72,6.5,9237
+K03475,"PTS-Ula-EIIC, ulaA, sgaT","PTS system, ascorbate-specific IIC component","{'ko01100': 'Metabolic pathways', 'ko00053': 'Ascorbate and aldarate metabolism', 'ko01120': 'Microbial metabolism in diverse environments', 'ko02060': 'Phosphotransferase system (PTS)'}",3.14,18.5,78.36,2.05,24.64,73.31,1699
+K20444,rfbC,O-antigen biosynthesis protein [EC:2.4.1.-],,14.36,36.56,49.08,2.95,28.51,68.54,1977
+K02428,rdgB,XTP/dITP diphosphohydrolase [EC:3.6.1.66],{'ko00230': 'Purine metabolism'},94.2,4.54,1.26,89.38,10.45,0.17,11987
+K00294,E1.2.1.88,1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88],"{'ko01100': 'Metabolic pathways', 'ko00330': 'Arginine and proline metabolism', 'ko00250': 'Alanine, aspartate and glutamate metabolism'}",3.01,10.63,86.36,7.47,38.95,53.58,3350
+K07473,dinJ,DNA-damage-inducible protein J,,23.31,39.18,37.51,2.47,27.4,70.13,2048
+K00997,acpS,holo-[acyl-carrier protein] synthase [EC:2.7.8.7],{'ko00770': 'Pantothenate and CoA biosynthesis'},23.6,25.87,50.53,43.88,44.99,11.13,8285
+K18889,"mdlA, smdA","ATP-binding cassette, subfamily B, multidrug efflux pump",{'ko02010': 'ABC transporters'},9.95,26.14,63.91,8.96,41.63,49.41,3474
+K07667,kdpE,"two-component system, OmpR family, KDP operon response regulator KdpE","{'ko02020': 'Two-component system', 'ko02024': 'Quorum sensing'}",42.11,31.29,26.6,15.21,47.14,37.65,4839
+K18824,sul2,dihydropteroate synthase type 2 [EC:2.5.1.15],"{'ko01100': 'Metabolic pathways', 'ko00790': 'Folate biosynthesis'}",0.33,4.79,94.88,0,1.04,98.96,58
+K02172,blaR1,bla regulator protein blaR1,{'ko01501': 'beta-Lactam resistance'},7.38,28.16,64.46,0.17,9.24,90.59,507
+K04763,xerD,integrase/recombinase XerD,,61.83,30.45,7.72,77.93,20.54,1.53,11085
+K02939,"RP-L9, MRPL9, rplI",large subunit ribosomal protein L9,{'ko03010': 'Ribosome'},99.55,0.45,0,97.7,2.3,0,12348
+K03575,mutY,A/G-specific adenine glycosylase [EC:3.2.2.-],{'ko03410': 'Base excision repair'},64.69,29.97,5.34,73.14,24.71,2.15,10736
+K19883,aacA-aphD,bifunctional aminoglycoside 6'-N-acetyltransferase / aminoglycoside 2''-phosphotransferase [EC:2.3.1.82 2.7.1.190],,0.76,9.81,89.43,0,1.04,98.96,88
+K00819,"rocD, OAT",ornithine--oxo-acid transaminase [EC:2.6.1.13],"{'ko01100': 'Metabolic pathways', 'ko00330': 'Arginine and proline metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko01110': 'Biosynthesis of secondary metabolites'}",2.44,7.73,89.83,7.45,39.98,52.57,3619
+K03442,mscS,small conductance mechanosensitive channel,,39.5,31.5,29,12.42,46.9,40.68,4532
+K19115,csh2,CRISPR-associated protein Csh2,,0.11,3.63,96.26,0.09,6.11,93.8,421
+K10117,msmE,raffinose/stachyose/melibiose transport system substrate-binding protein,{'ko02010': 'ABC transporters'},38.24,31.7,30.06,7.68,39.64,52.68,3575
+K00595,cobL,"precorrin-6Y C5,15-methyltransferase (decarboxylating) [EC:2.1.1.132]","{'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism'}",24.16,41.64,34.2,10.08,42.02,47.9,4060
+K02761,"PTS-Cel-EIIC, celB, chbC","PTS system, cellobiose-specific IIC component","{'ko00500': 'Starch and sucrose metabolism', 'ko02060': 'Phosphotransferase system (PTS)'}",9.44,25.25,65.31,2.01,26.01,71.98,1690
+K12257,secDF,SecD/SecF fusion protein,"{'ko03060': 'Protein export', 'ko02024': 'Quorum sensing', 'ko03070': 'Bacterial secretion system'}",45,26.2,28.8,10.02,43.16,46.82,4087
+K19157,yafQ,mRNA interferase YafQ [EC:3.1.-.-],,9.57,37.01,53.42,1.05,18.44,80.51,1388
+K05825,LYSN,2-aminoadipate transaminase [EC:2.6.1.-],"{'ko00300': 'Lysine biosynthesis', 'ko01210': '2-Oxocarboxylic acid metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko01100': 'Metabolic pathways'}",3.29,22.2,74.51,2.96,29.29,67.75,2242
+K07566,"tsaC, rimN, SUA5",L-threonylcarbamoyladenylate synthase [EC:2.7.7.87],,84.44,14.56,1,86.18,13.47,0.35,11725
+K07483,K07483,transposase,,21.8,42.62,35.58,20.07,49.72,30.21,5483
+K02346,dinB,DNA polymerase IV [EC:2.7.7.7],,74.9,23,2.1,77.72,20.94,1.34,11000
+K02377,"TSTA3, fcl",GDP-L-fucose synthase [EC:1.1.1.271],"{'ko00051': 'Fructose and mannose metabolism', 'ko00520': 'Amino sugar and nucleotide sugar metabolism', 'ko01100': 'Metabolic pathways'}",10.51,18.62,70.87,7.3,40.27,52.43,3781
+K00648,fabH,3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180],"{'ko01100': 'Metabolic pathways', 'ko00061': 'Fatty acid biosynthesis', 'ko01212': 'Fatty acid metabolism'}",70.46,23.93,5.61,76.39,22.03,1.58,10935
+K09768,K09768,uncharacterized protein,,26.35,35.33,38.32,18.4,49.74,31.86,5138
+K02226,"cobC, phpB",alpha-ribazole phosphatase [EC:3.1.3.73],"{'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism'}",23.91,44.32,31.77,9.13,41.47,49.4,3784
+K02313,dnaA,chromosomal replication initiator protein,"{'ko02020': 'Two-component system', 'ko04112': 'Cell cycle - Caulobacter'}",89.36,10.37,0.27,93.09,6.8,0.11,12143
+K08234,yaeR,glyoxylase I family protein,,12.53,38.91,48.56,5.47,35.7,58.83,2862
+K00111,"glpA, glpD",glycerol-3-phosphate dehydrogenase [EC:1.1.5.3],"{'ko00564': 'Glycerophospholipid metabolism', 'ko01110': 'Biosynthesis of secondary metabolites'}",31.23,40.94,27.83,46.61,43.88,9.51,8630
+K13012,wbqP,O-antigen biosynthesis protein WbqP,,1.27,18.18,80.55,0.39,12.23,87.38,761
+K06952,K06952,uncharacterized protein,,8.15,26.16,65.69,1.55,22.64,75.81,1653
+K07223,K07223,putative iron-dependent peroxidase,,5.11,13.17,81.72,3.84,31.22,64.94,2368
+K03321,TC.SULP,"sulfate permease, SulP family",,40.2,37.21,22.59,46.33,43.18,10.49,8306
+K07726,K07726,putative transcriptional regulator,,7.73,32.79,59.48,2.31,26.41,71.28,1921
+K00287,"DHFR, folA",dihydrofolate reductase [EC:1.5.1.3],"{'ko01100': 'Metabolic pathways', 'ko00790': 'Folate biosynthesis', 'ko00670': 'One carbon pool by folate', 'ko01523': 'Antifolate resistance'}",76.3,20.52,3.18,62.44,32.96,4.6,9672
+K00768,"E2.4.2.21, cobU, cobT",nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21],"{'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism'}",38.1,40.32,21.58,25.88,49.42,24.7,6413
+K08316,rsmD,16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171],,16.65,29.03,54.32,23.03,50.82,26.15,6186
+K02897,"RP-L25, rplY",large subunit ribosomal protein L25,{'ko03010': 'Ribosome'},42.9,33.77,23.33,67.47,29.33,3.2,10391
+K03744,lemA,LemA protein,,29.28,29.94,40.78,32.69,49.23,18.08,7452
+K07172,"mazE, chpAI",antitoxin MazE,,1.15,10.68,88.17,1.25,20.14,78.61,1415
+K19429,epsM,acetyltransferase EpsM [EC:2.3.1.-],,0.01,1.38,98.61,0.02,2.78,97.2,213
+K02217,"ftnA, ftn",ferritin [EC:1.16.3.2],,15.56,25.08,59.36,8.8,40.74,50.46,3584
+K02283,"cpaF, tadA",pilus assembly protein CpaF,,46.83,25.37,27.8,22.95,49.05,28,6051
+K13653,K13653,AraC family transcriptional regulator,,5.5,26.18,68.32,4.43,33.83,61.74,2685
+K19545,"lnuA_C_D_E, lin",lincosamide nucleotidyltransferase A/C/D/E,,17.04,39.38,43.58,0.21,8.98,90.81,536
+K02970,"RP-S21, MRPS21, rpsU",small subunit ribosomal protein S21,{'ko03010': 'Ribosome'},68.24,24.95,6.81,58.13,36.11,5.76,9395
+K01138,K01138,uncharacterized sulfatase [EC:3.1.6.-],,0.09,0.54,99.37,0,2.6,97.4,151
+K05989,ramA,alpha-L-rhamnosidase [EC:3.2.1.40],,7.41,32.58,60.01,1.63,24.53,73.84,1912
+K00561,"ermC, ermA",23S rRNA (adenine-N6)-dimethyltransferase [EC:2.1.1.184],,7.83,28.62,63.55,0.68,15.84,83.48,1099
+K09963,K09963,uncharacterized protein,,3.84,17.81,78.35,0.84,18.87,80.29,1198
+K03169,topB,DNA topoisomerase III [EC:5.99.1.2],,61.12,24.86,14.02,20.34,49.31,30.35,5327
+K06919,K06919,putative DNA primase/helicase,,9.59,36.2,54.21,2.57,26.51,70.92,1828
+K14623,dinD,DNA-damage-inducible protein D,,2.49,23.43,74.08,0.33,10.61,89.06,756
+K00986,ltrA,RNA-directed DNA polymerase [EC:2.7.7.49],,4.3,18.76,76.94,0.64,14.01,85.35,1023
+K19310,bcrB,bacitracin transport system permease protein,{'ko02010': 'ABC transporters'},6.21,27.9,65.89,0.18,6.41,93.41,380
+K03550,ruvA,holliday junction DNA helicase RuvA [EC:3.6.4.12],{'ko03440': 'Homologous recombination'},93.83,6.01,0.16,93.81,6.1,0.09,12086
+K07023,K07023,putative hydrolases of HD superfamily,,29.23,36.58,34.19,8.04,41.1,50.86,3466
+K01448,amiABC,N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28],{'ko01503': 'Cationic antimicrobial peptide (CAMP) resistance'},71.23,23.23,5.54,62.41,33.32,4.27,9858
+K00259,ald,alanine dehydrogenase [EC:1.4.1.1],"{'ko00430': 'Taurine and hypotaurine metabolism', 'ko01100': 'Metabolic pathways', 'ko00250': 'Alanine, aspartate and glutamate metabolism'}",17.65,27.59,54.76,37.69,48.23,14.08,7784
+K03655,recG,ATP-dependent DNA helicase RecG [EC:3.6.4.12],{'ko03440': 'Homologous recombination'},98.89,1.11,0,93.68,6.18,0.14,12094
+K09861,K09861,uncharacterized protein,,50.33,37.44,12.23,30.83,49.95,19.22,7146
+K09936,TC.BAT2,bacterial/archaeal transporter family-2 protein,{'ko02024': 'Quorum sensing'},27,37.43,35.57,8.95,42.58,48.47,3814
+K18220,"tetM, tetO",ribosomal protection tetracycline resistance protein,,50.79,22.73,26.48,1.3,20.19,78.51,1393
+K02045,cysA,sulfate transport system ATP-binding protein [EC:3.6.3.25],"{'ko00920': 'Sulfur metabolism', 'ko02010': 'ABC transporters'}",10.88,29.31,59.81,8.26,40.8,50.94,3500
+K03297,"emrE, qac, mmr, smr",small multidrug resistance pump,,5.71,14.84,79.45,13.24,46.28,40.48,4486
+K02774,"PTS-Gat-EIIB, gatB, sgcB","PTS system, galactitol-specific IIB component [EC:2.7.1.200]","{'ko00052': 'Galactose metabolism', 'ko01100': 'Metabolic pathways', 'ko02060': 'Phosphotransferase system (PTS)'}",1.09,13.58,85.33,0.58,13.62,85.8,922
+K03826,yiaC,putative acetyltransferase [EC:2.3.1.-],,19.07,33.88,47.05,1.13,18.39,80.48,1165
+K20488,"nisR, spaR","two-component system, OmpR family, lantibiotic biosynthesis response regulator NisR/SpaR","{'ko02020': 'Two-component system', 'ko02024': 'Quorum sensing'}",30.02,28.04,41.94,0.56,14.53,84.91,974
+K01610,"E4.1.1.49, pckA",phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49],"{'ko00010': 'Glycolysis / Gluconeogenesis', 'ko00620': 'Pyruvate metabolism', 'ko00020': 'Citrate cycle (TCA cycle)', 'ko01200': 'Carbon metabolism', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko00710': 'Carbon fixation in photosynthetic organisms', 'ko01100': 'Metabolic pathways', 'ko01130': 'Biosynthesis of antibiotics', 'ko01120': 'Microbial metabolism in diverse environments'}",61.72,23.85,14.43,25.41,49.68,24.91,6350
+K00520,merA,mercuric reductase [EC:1.16.1.1],,3.58,8.57,87.85,0.74,14.96,84.3,1139
+K02227,"cbiB, cobD",adenosylcobinamide-phosphate synthase [EC:6.3.1.10],"{'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism'}",42.38,35.81,21.81,24.48,49.67,25.85,6250
+K01104,E3.1.3.48,protein-tyrosine phosphatase [EC:3.1.3.48],,83.61,15.05,1.34,66.94,29.5,3.56,10026
+K18214,"tetP_A, tet40","MFS transporter, DHA3 family, tetracycline resistance protein",,5,24.81,70.19,0,2.02,97.98,130
+K03570,mreC,rod shape-determining protein MreC,,69.79,24.34,5.87,51.96,40.24,7.8,8802
+K02775,"PTS-Gat-EIIC, gatC, sgcC","PTS system, galactitol-specific IIC component","{'ko00052': 'Galactose metabolism', 'ko01100': 'Metabolic pathways', 'ko02060': 'Phosphotransferase system (PTS)'}",5.12,20.25,74.63,0.82,16,83.18,1091
+K14153,thiDE,hydroxymethylpyrimidine kinase / phosphomethylpyrimidine kinase / thiamine-phosphate diphosphorylase [EC:2.7.1.49 2.7.4.7 2.5.1.3],"{'ko01100': 'Metabolic pathways', 'ko00730': 'Thiamine metabolism'}",0.26,7.49,92.25,0.23,9.12,90.65,529
+K07005,K07005,uncharacterized protein,,21.73,40.29,37.98,9.19,42.13,48.68,3929
+K00941,thiD,hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7],"{'ko01100': 'Metabolic pathways', 'ko00730': 'Thiamine metabolism'}",66.5,29.57,3.93,57.38,36.82,5.8,9407
+K04088,hflK,membrane protease subunit HflK [EC:3.4.-.-],,8.01,16.05,75.94,13.83,47.45,38.72,4529
+K03777,dld,D-lactate dehydrogenase (quinone) [EC:1.1.5.12],"{'ko00620': 'Pyruvate metabolism', 'ko01120': 'Microbial metabolism in diverse environments'}",2.1,6.35,91.55,1.06,19.32,79.62,1212
+K07133,K07133,uncharacterized protein,,61.89,21.07,17.04,8.35,41.19,50.46,3677
+K02233,"E2.7.8.26, cobS, cobV",adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26],"{'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism'}",28.45,44.12,27.43,22.99,49.71,27.3,6071
+K01535,"PMA1, PMA2",H+-transporting ATPase [EC:3.6.3.6],{'ko00190': 'Oxidative phosphorylation'},0.21,2.83,96.96,0.07,5.99,93.94,348
+K18856,"vanC, vanE, vanG",D-alanine---D-serine ligase [EC:6.3.2.35],"{'ko01502': 'Vancomycin resistance', 'ko02020': 'Two-component system'}",0.14,5.56,94.3,0.02,2.16,97.82,113
+K00290,LYS1,"saccharopine dehydrogenase (NAD+, L-lysine forming) [EC:1.5.1.7]","{'ko00300': 'Lysine biosynthesis', 'ko01130': 'Biosynthesis of antibiotics', 'ko01100': 'Metabolic pathways', 'ko01230': 'Biosynthesis of amino acids', 'ko00310': 'Lysine degradation', 'ko01110': 'Biosynthesis of secondary metabolites'}",32.69,36.64,30.67,3.64,31.13,65.23,2539
+K07484,K07484,transposase,,15.95,41.59,42.46,3.2,28.89,67.91,2257
+K01658,trpG,anthranilate synthase component II [EC:4.1.3.27],"{'ko01130': 'Biosynthesis of antibiotics', 'ko00405': 'Phenazine biosynthesis', 'ko01230': 'Biosynthesis of amino acids', 'ko02024': 'Quorum sensing', 'ko00400': 'Phenylalanine, tyrosine and tryptophan biosynthesis', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko02025': 'Biofilm formation - Pseudomonas aeruginosa'}",45.03,36.03,18.94,39.16,46.88,13.96,7777
+K17195,alsE,D-allulose-6-phosphate 3-epimerase [EC:5.1.3.-],"{'ko00051': 'Fructose and mannose metabolism', 'ko01120': 'Microbial metabolism in diverse environments'}",0.31,8.59,91.1,0.04,3.98,95.98,213
+K09888,zapA,cell division protein ZapA,,35.92,40.88,23.2,33.92,47.93,18.15,7076
+K07497,K07497,putative transposase,,20.05,40.39,39.56,23.02,50.13,26.85,5915
+K03478,chbG,chitin disaccharide deacetylase [EC:3.5.1.105],,0.64,4.22,95.14,1.05,19.16,79.79,1239
+K07736,carD,CarD family transcriptional regulator,,18,34.6,47.4,17.12,48.21,34.67,5364
+K07058,K07058,membrane protein,,60.09,31.59,8.32,62.14,33.47,4.39,9980
+K07407,"E3.2.1.22B, galA, rafA",alpha-galactosidase [EC:3.2.1.22],"{'ko00052': 'Galactose metabolism', 'ko00603': 'Glycosphingolipid biosynthesis - globo and isoglobo series', 'ko00561': 'Glycerolipid metabolism', 'ko00600': 'Sphingolipid metabolism'}",45.7,36.48,17.82,11.41,46.31,42.28,4337
+K00625,"E2.3.1.8, pta",phosphate acetyltransferase [EC:2.3.1.8],"{'ko00620': 'Pyruvate metabolism', 'ko00680': 'Methane metabolism', 'ko00430': 'Taurine and hypotaurine metabolism', 'ko01200': 'Carbon metabolism', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko00640': 'Propanoate metabolism'}",55.1,28.71,16.19,13.98,46.64,39.38,4491
+K22373,larA,lactate racemase [EC:5.1.2.1],{'ko00620': 'Pyruvate metabolism'},0.82,13.59,85.59,0.12,6.71,93.17,452
+K03925,mraZ,MraZ protein,,77.49,17.79,4.72,64.71,31.73,3.56,9879
+K15738,uup,ABC transport system&#160;ATP-binding/permease protein,,68.48,23.62,7.9,56.96,37.06,5.98,9325
+K02073,metQ,D-methionine transport system substrate-binding protein,{'ko02010': 'ABC transporters'},32.77,39.33,27.9,30.22,49.71,20.07,6732
+K00590,E2.1.1.113,site-specific DNA-methyltransferase (cytosine-N4-specific) [EC:2.1.1.113],,3.54,27.99,68.47,1.38,21.35,77.27,1510
+K03205,"virD4, lvhD4",type IV secretion system protein VirD4,{'ko03070': 'Bacterial secretion system'},48.71,25.89,25.4,5.53,36.08,58.39,3127
+K03386,"PRDX2_4, ahpC",peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15],{'ko04214': 'Apoptosis - fly'},27.26,31.21,41.53,40.45,46.61,12.94,7888
+K07646,kdpD,"two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]",{'ko02020': 'Two-component system'},45.63,34.9,19.47,20.16,49.23,30.61,5726
+K01270,pepD,dipeptidase D [EC:3.4.13.-],"{'ko01100': 'Metabolic pathways', 'ko00480': 'Glutathione metabolism'}",31.82,35.56,32.62,6.07,38.01,55.92,3249
+K00639,"kbl, GCAT",glycine C-acetyltransferase [EC:2.3.1.29],"{'ko00260': 'Glycine, serine and threonine metabolism'}",12.3,21.72,65.98,17.42,49.62,32.96,5171
+K00937,ppk,polyphosphate kinase [EC:2.7.4.1],"{'ko00190': 'Oxidative phosphorylation', 'ko03018': 'RNA degradation'}",73.47,20.73,5.8,59.82,35.05,5.13,9684

@@ -1,0 +1,93 @@
+Genome_x,Genome_y,16S distance,label,pred,group,species_x,species_y,x_source,y_source
+GCA_003478165.1,GCF_900078395.1,80.396038,0,0.9392,high predictions,Blautia sp. OF01-4LB,Anaerotruncus rubiinfantis,Human gut microbiome,Human gut microbiome
+1520827.3,GCA_003478965.1,90.878826,0,0.9356,high predictions,Lachnospiraceae bacterium XBB1006,Clostridium sp. AF20-17LB,Unknown,Human gut microbiome
+658665.3,GCA_003481805.1,90.532547,0,0.9718,high predictions,Dorea sp. D27,Lachnospiraceae bacterium OM02-26,Human gut microbiome,Human gut microbiome
+GCA_001812065.1,GCA_003460585.1,75.016439,0,0.9506,high predictions,Actinomyces sp. HMSC072A03,Ruminococcus sp. AF32-2AC,Human pathogen/disease-associated,Human gut microbiome
+GCA_003458565.1,GCA_003479375.1,91.551155,0,0.9854,high predictions,Bacteroides coprocola,Bacteroides sp. AF16-49,Human gut microbiome,Human gut microbiome
+742732.3,GCA_002160275.1,83.509517,0,0.9566,high predictions,[Clostridium] bolteae,Pseudoflavonifractor sp. An187,Human gut microbiome,Animal-associated
+1650661.3,GCA_003479935.1,81.08108,0,0.9428,high predictions,Clostridium phoceensis,Clostridium sp. AM45-5,Human gut microbiome,Human gut microbiome
+471875.6,GCA_003478035.1,90.861273,0,0.9916,high predictions,Ruminococcus lactaris,Clostridium sp. OF03-18AA,Human gut microbiome,Human gut microbiome
+1261640.4,GCA_003460585.1,80.252659,0,0.9472,high predictions,Eubacterium sp. 68-3-10,Ruminococcus sp. AF32-2AC,Animal-associated,Human gut microbiome
+1841857.3,1903262.3,82.399476,0,0.9958,high predictions,Culturomica massiliensis,Bacteroides ndongoniae,Human pathogen/disease-associated,Human gut microbiome
+999421.3,GCA_900104195.1,79.60133,0,0.9092,high predictions,Parabacteroides merdae,Cloacibacterium normanense,Human gut microbiome,Other
+1203540.3,GCA_001059955.1,83.200532,0,0.9016,high predictions,Bifidobacterium breve,Corynebacterium striatum,Human pathogen/disease-associated,Human pathogen/disease-associated
+1235794.3,742768.3,92.785573,0,0.9404,high predictions,Enterorhabdus caecimuris,Eggerthella lenta,Human pathogen/disease-associated,Human gut microbiome
+GCA_000262545.1,GCA_001811695.1,85.036254,0,0.9544,high predictions,Prevotella bivia,Bacteroides sp. HMSC068A09,Human pathogen/disease-associated,Human pathogen/disease-associated
+1235835.3,GCF_002161355.1,80.924094,0,0.9614,high predictions,Anaerotruncus sp. G3(2012),Lachnoclostridium sp. An76,Animal-associated,Animal-associated
+GCA_002160985.1,GCA_003478265.1,91.98606,0,0.9966,high predictions,Lachnoclostridium sp. An118,Ruminococcus sp. AM54-14NS,Animal-associated,Human gut microbiome
+GCA_003480885.1,GCF_003992065.1,78.729481,0,0.9404,high predictions,Ruminococcus sp. TM09-4,Veillonella seminalis,Human gut microbiome,Human pathogen/disease-associated
+742765.5,GCA_003603435.1,93.745887,0,0.9754,high predictions,Dorea formicigenerans,Lachnospiraceae bacterium AM40-2BH,Human gut microbiome,Human gut microbiome
+1841865.4,GCF_000499785.1,88.785666,0,0.9926,high predictions,Mediterranea massiliensis,Bacteroides neonati,Human gut microbiome,Human gut microbiome
+GCA_002161085.1,GCA_003480695.1,84.829229,0,0.942,high predictions,Flavonifractor sp. An112,Blautia sp. AM28-10,Animal-associated,Human gut microbiome
+GCA_003460445.1,GCF_002161355.1,79.8419,0,0.96,high predictions,Ruminococcus sp. AF37-3AC,Lachnoclostridium sp. An76,Human gut microbiome,Animal-associated
+GCA_001244495.1,GCA_003603465.1,76.958525,0,0.932,high predictions,Clostridium phoceensis,Eubacterium sp. AM35-6AC,Human gut microbiome,Human gut microbiome
+GCA_002160985.1,GCA_003480005.1,92.227978,0,0.9796,high predictions,Lachnoclostridium sp. An118,Blautia sp. AM46-3MH,Animal-associated,Human gut microbiome
+658082.3,665951.3,94.404215,0,0.9378,high predictions,Lachnospiraceae bacterium 2_1_58FAA,Lachnospiraceae bacterium 8_1_57FAA,Human gut microbiome,Human pathogen/disease-associated
+563193.3,999421.3,94.448113,0,0.9842,high predictions,Parabacteroides sp. D13,Parabacteroides merdae,Human pathogen/disease-associated,Human gut microbiome
+679199.3,GCA_003479825.1,81.344759,0,0.9598,high predictions,Alloprevotella rava,Tannerella sp. AF04-6,Human oral microbiome,Human gut microbiome
+GCA_003480005.1,GCA_003480975.1,80.656302,0,0.9832,high predictions,Blautia sp. AM46-3MH,Absiella sp. AM27-20,Human gut microbiome,Human gut microbiome
+545696.5,GCA_002160985.1,81.016678,0,0.9636,high predictions,Holdemania filiformis,Lachnoclostridium sp. An118,Human gut microbiome,Animal-associated
+742723.3,GCA_003479125.1,93.40176,0,0.9758,high predictions,Lachnospiraceae bacterium 2_1_46FAA,Eubacterium sp. AF19-12LB,Human gut microbiome,Human gut microbiome
+658082.3,GCA_003479125.1,93.914956,0,0.9542,high predictions,Lachnospiraceae bacterium 2_1_58FAA,Eubacterium sp. AF19-12LB,Human gut microbiome,Human gut microbiome
+1236489.4,1307832.4,81.163251,0,0.925,high predictions,Prevotella marshii,Tannerella forsythia,Human pathogen/disease-associated,Human pathogen/disease-associated
+658082.3,GCA_003461565.1,90.849245,0,0.9648,high predictions,Lachnospiraceae bacterium 2_1_58FAA,Firmicutes bacterium AF16-15,Human gut microbiome,Human gut microbiome
+999412.4,GCA_003462645.1,92.039472,0,0.9836,high predictions,Hungatella hathewayi,Roseburia sp. OM03-18,Human gut microbiome,Human gut microbiome
+853.15,GCA_003603715.1,81.698841,0,0.9174,high predictions,Faecalibacterium prausnitzii,Lachnospiraceae bacterium TM07-2AC,Human gut microbiome,Human gut microbiome
+GCA_003478515.1,GCA_003481995.1,91.776317,0,0.9658,high predictions,Roseburia sp. AF25-18LB,Lachnospiraceae bacterium OF09-33XD,Human gut microbiome,Human gut microbiome
+GCA_003603715.1,GCF_900604945.1,81.878746,0,0.9104,high predictions,Lachnospiraceae bacterium TM07-2AC,Ruminococcus sp. Marseille-P6503,Human gut microbiome,Human gut microbiome
+742723.3,GCA_003603875.1,80.936676,0,0.9856,high predictions,Lachnospiraceae bacterium 2_1_46FAA,Subdoligranulum sp. TF05-17AC,Human gut microbiome,Human gut microbiome
+213810.4,GCA_003461285.1,82.663989,0,0.903,high predictions,Ruminococcus champanellensis,Eubacterium sp. AF17-7,Human gut microbiome,Human gut microbiome
+1720300.3,GCA_003477475.1,88.896549,0,0.9958,high predictions,Mediterraneibacter massiliensis,Ruminococcus sp. AF45-4BH,Human gut microbiome,Human gut microbiome
+301302.3,GCA_003460445.1,80.434781,0,0.9206,high predictions,Roseburia faecis,Ruminococcus sp. AF37-3AC,Human gut microbiome,Human gut microbiome
+GCA_003435925.1,GCA_003460985.1,84.180385,0,0.9144,high predictions,Clostridium sp. AF46-9NS,Ruminococcus sp. AF25-19,Human gut microbiome,Human gut microbiome
+GCA_003462505.1,GCA_003604145.1,76.695192,0,0.9084,high predictions,Ruminococcus sp. OM07-7,Eubacterium sp. OF10-16,Human gut microbiome,Human gut microbiome
+997890.3,GCF_000304195.1,94.455445,0,0.9566,high predictions,Bacteroides uniformis,Bacteroides finegoldii,Human gut microbiome,Human gut microbiome
+658655.3,GCF_900086725.1,93.943381,0,0.9616,high predictions,Lachnospiraceae bacterium 1_4_56FAA,Bariatricus massiliensis,Human pathogen/disease-associated,Human gut microbiome
+999405.4,GCA_003473925.1,81.395346,0,0.9312,high predictions,[Clostridium] clostridioforme,Clostridium sp. AM09-51,Human gut microbiome,Human gut microbiome
+GCA_003461585.1,GCA_003481655.1,89.730084,0,0.9702,high predictions,Clostridium sp. AF15-6B,Ruminococcus sp. OM05-10BH,Human gut microbiome,Human gut microbiome
+298386.8,GCF_900116355.1,71.523178,0,0.0184,random selection,Photobacterium profundum,Mucilaginibacter polytrichastri,Environment,Plant-associated
+1423772.3,GCF_000272085.2,77.619046,0,0.0072,random selection,Lactobacillus murinus,Vibrio crassostreae,Animal-associated,Environment
+332950.4,GCF_900108045.1,83.781582,0,0.0906,random selection,Enterococcus termitis,Caloramator fervidus,Animal-associated,Environment
+1871018.3,GCF_002899945.2,74.165553,0,0.0426,random selection,Angelakisella massiliensis,Chryseobacterium viscerum,Human gut microbiome,Animal-associated
+1337886.4,GCF_003207815.1,77.183479,0,0.008,random selection,Sporomusa sphaeroides,Komagataeibacter oboediens,Environment,Other
+GCF_000292245.2,GCF_000299415.1,78.444445,0,0.006,random selection,Bacillus alcalophilus,Candidatus Microthrix parvicella,Human gut microbiome,Wastewater
+GCF_001444445.1,GCF_900110645.1,74.14248,0,0.12,random selection,Prevotella enoeca,Lewinella agarilytica,Human oral microbiome,Environment
+2702.93,GCF_001517585.1,75.964189,0,0.0032,random selection,Gardnerella vaginalis,Roseibaca calidilacus,Human pathogen/disease-associated,Environment
+GCA_003635445.1,GCF_002895435.1,81.258279,0,0.0478,random selection,Parabacteroides sp. AF17-3,Aquimarina sediminis,Human gut microbiome,Animal-associated
+366522.7,GCF_900105615.1,75.150299,0,0.0744,random selection,Sulfurospirillum cavolei,[Clostridium] sphenoides,Environment,Environment
+500635.8,GCF_000799235.1,71.659636,0,0.0366,random selection,Mitsuokella multacida,Chryseobacterium sp. YR459,Human gut microbiome,Plant-associated
+GCA_002000245.1,GCF_002198675.1,72.140956,0,0.01,random selection,Sphingobacterium sp. CZ-UAM,Kineosporia sp. R_H_3,Wastewater,Environment
+1056818.3,GCF_000196875.2,87.689269,0,0.181,random selection,Teredinibacter turnerae,Halomonas elongata,Animal-associated,Environment
+GCF_001422375.1,GCF_001931655.1,81.670064,0,0.0162,random selection,Methylobacterium sp. Leaf99,Acidithiobacillus albertensis,Plant-associated,Environment
+395494.4,GCF_003057865.1,70.541614,0,0.0022,random selection,Gallionella capsiferriformans,Muricauda sp. K001,Environment,Environment
+GCF_001747425.1,GCF_002157505.1,89.56117,0,0.0198,random selection,Actinoalloteichus hymeniacidonis,Arthrobacter agilis,Animal-associated,Environment
+1484116.3,460265.11,72.75815,0,0.0322,random selection,Hymenobacter sp. PAMC 26554,Methylobacterium nodulans,Plant-associated,Plant-associated
+GCF_900639915.1,GCF_000381245.1,85.79843,0,0.0064,random selection,Legionella nagasakiensis,Thioalkalivibrio sp. ALD1,Environment,Environment
+1299341.3,744979.4,73.541385,0,0.0108,random selection,Flavobacterium urocaniciphilum,Ahrensia sp. R2A130,Wastewater,Environment
+877411.3,GCF_000012145.1,77.13517,0,0.018,random selection,Ruminococcus sp. NK3A76,Rickettsia felis,Animal-associated,Human pathogen/disease-associated
+1469948.3,GCF_000009745.1,74.73684,0,0.015,random selection,Kineothrix alysoides,Vibrio vulnificus,Plant-associated,Human pathogen/disease-associated
+1185710.3,GCF_900172315.1,76.198345,0,0.0576,random selection,Xanthomonas phaseoli,Palleronia marisminoris,Plant-associated,Environment
+143221.12,1453352.4,72.775567,0,0.0436,random selection,Salmonella enterica,Sediminicola sp. YIK13,Human pathogen/disease-associated,Environment
+1881040.3,GCF_003626735.1,71.740568,0,0.004,random selection,Chitinophaga sp. YR573,Microbacterium sp. CGR2,Environment,Environment
+281376.3,GCF_001677375.1,74.770641,0,0.0214,random selection,Acinetobacter seohaensis,Helicobacter sp. CLO-3,Environment,Human pathogen/disease-associated
+460265.11,GCF_003234085.1,77.377719,0,0.0096,random selection,Methylobacterium nodulans,Curtobacterium sp. MCPF17_052,Plant-associated,Environment
+154621.3,GCF_000155895.1,71.807396,0,0.0124,random selection,Enterococcus phoeniculicola,Candidatus Pelagibacter sp. HTCC7211,Animal-associated,Environment
+GCA_900095865.1,GCF_003612345.1,81.031066,0,0.0164,random selection,Massilioclostridium coli,Negativibacillus sp. 1xD8-3,Human gut microbiome,Animal-associated
+GCF_004341085.1,GCF_000613285.1,83.276683,0,0.0712,random selection,Sphingomonas sp. PP-CE-1G-424,Acetobacter papayae,Plant-associated,Plant-associated
+GCF_000517125.1,GCF_001718795.1,76.221931,0,0.0062,random selection,Arthrobacter sp. MA-N2,Burkholderia latens,Environment,Human pathogen/disease-associated
+GCF_000816495.1,GCF_001809895.1,77.094239,0,0.0096,random selection,Acinetobacter harbinensis,Aerococcus sp. HMSC062B07,Environment,Human gut microbiome
+GCF_001426705.1,GCF_001908235.1,76.303315,0,0.0088,random selection,Cellulomonas sp. Root485,Bradyrhizobium sp. NAS96.2,Plant-associated,Plant-associated
+1111134.3,GCF_900106575.1,71.399999,0,0.0668,random selection,Peptoniphilus sp. BV3C26,Capnocytophaga granulosa,Human gut microbiome,Human oral microbiome
+GCA_003534205.1,GCF_000023125.1,72.040135,0,0.0044,random selection,Listeria weihenstephanensis,Dyadobacter fermentans,Plant-associated,Plant-associated
+1036743.4,GCF_000445065.1,85.122281,0,0.1192,random selection,Rhodospirillum rubrum,Sphingobium quisquiliarum,Environment,Environment
+1298857.3,254161.3,75.376558,0,0.0062,random selection,Solirubrobacter sp. URHD0082,Pseudomonas pachastrellae,Plant-associated,Environment
+GCA_003466325.1,GCF_003987495.1,71.617162,0,0.0464,random selection,Bacteroides sp. 4_1_36,Vagococcus salmoninarum,Human gut microbiome,Animal-associated
+414684.5,GCF_003202285.1,78.314072,0,0.0088,random selection,Rhodospirillum centenum,Prauserella muralis,Environment,Other
+GCF_001305595.1,GCF_002811845.1,76.849967,0,0.0126,random selection,Azospirillum thiophilum,Leptospira adleri,Environment,Environment
+GCA_003470005.1,GCF_005771425.1,71.913159,0,0.0058,random selection,Bacteroides stercoris,Methylocystis sp. B8,Human gut microbiome,Environment
+1069985.4,1777879.3,72.781456,0,0.0034,random selection,Pedobacter kyungheensis,Streptococcus sp. DD11,Environment,Plant-associated
+281376.3,GCF_001641695.1,79.918861,0,0.0328,random selection,Acinetobacter seohaensis,Bradyrhizobium neotropicale,Environment,Plant-associated
+GCF_001643235.1,GCF_900186965.1,75.725406,0,0.002,random selection,Domibacillus aminovorans,Legionella spiritensis,Environment,Environment
+1090318.6,GCF_002201795.1,72.887087,0,0.0042,random selection,Sphingomonas phyllosphaerae,Alkalitalea saponilacus,Plant-associated,Environment
+1123284.3,GCF_004121055.1,74.538153,0,0.0036,random selection,Sporolactobacillus vineae,Achromobacter aloeverae,Environment,Plant-associated
+999421.3,GCF_000224005.2,70.778364,0,0.0144,random selection,Parabacteroides merdae,Marichromatium purpuratum,Human gut microbiome,Environment

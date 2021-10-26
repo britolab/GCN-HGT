@@ -1,4 +1,4 @@
-** Genome IDs from TableS1 are collected from public genome databases sources which includes PATRIC, NCBI Refseq & Assembly.
+** Genome IDs from TableS1 are collected from public genome databases sources which includes PATRIC, NCBI Refseq & NCBI Assembly.
 ** https://www.patricbrc.org/ 
 ** https://www.ncbi.nlm.nih.gov/
 ** HGT.all.pkl is the pickle format file (pd.read_pickle) of precomputed HGT links. 

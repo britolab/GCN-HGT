@@ -1,6 +1,3 @@
-# Main reference 1: T. N. Kipf, M. Welling, Variational Graph Auto-Encoders, NIPS Workshop on Bayesian Deep Learning (2016); 
-# Main reference 2: http://snap.stanford.edu/deepnetbio-ismb/
-
 import scipy.sparse as sp
 import numpy as np
 

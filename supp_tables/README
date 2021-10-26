@@ -1,2 +1,2 @@
 ** Genome IDs from TableS1 are from downloaded sources which includes: PATRIC, NCBI Refseq & Assembly.
-** HGT.all.pkl is the pickle format file (pd.read_pickle) of precomputed HGT links.
+** HGT.all.pkl is the pickle format file (pd.read_pickle) of precomputed HGT links. download here: 

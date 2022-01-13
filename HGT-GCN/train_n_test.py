@@ -395,7 +395,7 @@ with open('GCN_processed_data/unseen_val', 'wb') as f:
 with open('GCN_processed_data/censor_val_edges_false', 'wb') as f:
     pickle.dump(censor_val_edges_false, f)
     
-#save processed data into npys
+#save processed data into npz
 sp.save_npz('GCN_processed_data/feature_train',feature_train_table_spx)
 sp.save_npz('GCN_processed_data/adj_norm_val',adj_norm_val)
 sp.save_npz('GCN_processed_data/adj_norm_test',adj_norm_test)
@@ -535,7 +535,6 @@ plt.xlabel('False Positive Rate',size=15)
 plt.ylabel('True Positive Rate',size=15)
 plt.gca().set_aspect('equal', adjustable='box')
 plt.legend(('True','Random'),fontsize=10)
-# plt.title('Test data',size=15)
 plt.tick_params(labelsize=15)
 fig.savefig("GCN_graph/ROC_curve.all.pdf")
 
@@ -562,10 +561,11 @@ np.save('GCN_evaluation/fpr_dummy',fpr_dummy)
 np.save('GCN_evaluation/tpr_dummy',tpr_dummy)
 np.save('GCN_evaluation/pre_dummy',precision_dummy)
 np.save('GCN_evaluation/rec_dummy',recall_dummy)
-features_dummy.to_pickle('GCN_evaluation/features_dummy.pkl')
 np.save('GCN_prediction/labels_readadj_censor',labels_readadj_censor)
 np.save('GCN_prediction/preds_readadj_censor',preds_readadj_censor)
 np.save('GCN_prediction/layer1_weights_readadj_censor',layer1_weights_readadj_censor)
 np.save('GCN_prediction/layer2_weights_readadj_censor',layer2_weights_readadj_censor)
 np.save('GCN_prediction/adj_rec',adj_rec)
 np.save('GCN_prediction/adj_rec_dummy',adj_rec_dummy)
+features_dummy.to_pickle('GCN_evaluation/features_dummy.pkl')
+
